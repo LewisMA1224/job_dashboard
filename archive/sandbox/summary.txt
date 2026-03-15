@@ -1,0 +1,22 @@
+Total jobs: 3
+
+Top Categories:
+category
+Software Development    3
+
+Top Locations:
+candidate_required_location
+Americas, Europe, Asia, Oceania    1
+USA, Canada, USA timezones         1
+USA                                1
+
+Top Companies:
+company
+Lemon.io        1
+Mitre Media     1
+SKYCATCHFIRE    1
+
+Jobs With Salary Info:
+has_salary
+Yes    2
+No     1

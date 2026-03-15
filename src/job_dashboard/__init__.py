@@ -1,0 +1,1 @@
+"""Remote jobs dashboard package."""
