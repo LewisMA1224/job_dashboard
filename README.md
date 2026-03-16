@@ -12,6 +12,11 @@ Remote Job Market Tracker helps job seekers and data-focused developers answer p
 
 The app is structured as a clean, portfolio-ready analytics project with separation between data access, enrichment, filtering, persistence, charting, and UI.
 
+![Job Dashboard Screenshot](images/app-screenshot.png)
+
+
+
+
 ## Why This App Exists
 
 Most simple job dashboards only display current listings. This project moves beyond that by:
