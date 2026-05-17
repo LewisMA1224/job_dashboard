@@ -1,6 +1,6 @@
 # Job Dashboard / Remote Job Market Tracker
 
-A beginner-friendly Streamlit app that pulls live remote job listings, enriches them with useful metadata, and tracks snapshots over time so you can monitor market trends.
+A Streamlit dashboard that pulls live remote job listings, enriches them with useful metadata, and tracks snapshots over time to monitor hiring trends.
 
 
 
